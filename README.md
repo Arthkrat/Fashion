@@ -1,1 +1,1 @@
-# Fashion
+Лендинг с подключением owlCarousel 
